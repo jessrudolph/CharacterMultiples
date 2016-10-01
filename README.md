@@ -1,6 +1,6 @@
 # CharacterMultiples
 BRIEF DESCRIPTION
-<br>This Java program accepts input for 2 parallel arrays: a string array and an int array. The string array contains strings of characters and symbols while the int array provides an integer that represents a multiple of the characters in the corresponding string. The output is an integer array that counts the number of unique characters of a string that are a multiple of the integer that was input.
+<br>This Java program accepts input for 2 parallel arrays: a string array and an int array. The string array contains strings of characters, symbols, numbers, and punctuation, while the int array provides an integer that represents a multiple of characters in the corresponding string. The output is an integer array that counts the number of unique characters of a string that are a multiple of the multiple integer that was input.
 
 PROBLEM
 <br>Given a string of length L, and a number M, find the number of characters in the string array that appear a multiple of M times. The string may consist of mixed-case alphanumeric characters and symbols. Your code should treat different cases of the same letter as distinct characters.
